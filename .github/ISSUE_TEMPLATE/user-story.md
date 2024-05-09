@@ -1,16 +1,18 @@
 ---
-name: USER STORY
-about: This is my default user story template
-title: 'USER STORY: '
-labels: Epic
+name: user story
+about: 'default user story template with ###'
+title: ''
+labels: ''
 assignees: ''
 
 ---
 
-As a **role** I can **capability** so that **ReceivedBenefit**
+Epic: 
+
+•	As a **role** I can **capability** so that **ReceivedBenefit**
 
 
-## **Acceptance Criteria:**
+### **Acceptance Criteria:**
 - …
 - …
 - …
