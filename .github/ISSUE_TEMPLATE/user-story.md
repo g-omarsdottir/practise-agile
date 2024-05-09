@@ -2,7 +2,7 @@
 name: USER STORY
 about: This is my default user story template
 title: 'USER STORY: '
-labels: ''
+labels: Epic
 assignees: ''
 
 ---
